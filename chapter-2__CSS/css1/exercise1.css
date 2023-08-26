@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #00705c;
+}
+h3{
+    color: #00705c;
+}
+.bg-color{
+    background-color: #d0d6d5;
+}
+.secondary{
+    background-color: #e0e0e0;
+}
+span{
+    color: #0000ff;
+    background-color: #7dffe8;
+}

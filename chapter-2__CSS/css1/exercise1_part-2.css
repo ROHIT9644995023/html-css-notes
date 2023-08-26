@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #d0d6d5;
+}
+main{
+    background-color: #e0e0e0;
+}
+span{
+    color: #0000ff;
+    background-color: #7dffe8;
+}
+.headding{
+    color: #00705c;
+}
